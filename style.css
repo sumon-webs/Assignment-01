@@ -100,6 +100,8 @@ body{
     font-size: 18px;
     line-height: 24px;
     padding-bottom: 32px;
+    line-height: 35px;
+    color: rgba(255, 255, 255, 1);
 }
 
 .btn_2{
@@ -195,6 +197,10 @@ h3{
     justify-content: flex-start;
     align-items: center;
     gap: 23px;
+}
+
+.chalange_container p{
+    color: #627382;
 }
 
 /* Footer section */
