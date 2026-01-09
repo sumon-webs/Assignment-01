@@ -166,3 +166,16 @@ h3{
     flex-direction: row;
     gap: 6px;
 }   
+
+
+/* Chalange section */
+
+.chalange_container{
+    background-color:  rgba(247, 246, 242, 1);
+    padding: 80px 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 23px;
+}
